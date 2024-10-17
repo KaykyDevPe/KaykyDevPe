@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Python Developer<br>-Backend<br>-Main programming languages: Python focused on backend with Django framework<br>-Currently pursuing a degree in ADS, Analysis and Systems Development<br>-Basic knowledge of HTML, CSS, -JavaScript, and Bootstrap<br>-Familiar with Docker, PostgreSQL, and GitHub<br>-Currently employed as a BackOffice Analyst</p>
+<p align="left">-Python Developer<br>-Backend<br>-Main programming languages: Python focused on backend with Django framework<br>-Currently pursuing a degree in ADS, Analysis and Systems Development<br>-Basic knowledge of HTML, CSS, JavaScript, ChartJS, and Bootstrap<br>-Familiar with Docker, PostgreSQL, and GitHub<br>-Currently employed as a BackOffice Analyst</p>
 
 ###
 
